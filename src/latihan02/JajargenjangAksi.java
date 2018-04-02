@@ -6,5 +6,7 @@ public class JajargenjangAksi {
         Jajargenjang j1 = new Jajargenjang();
             j1.alas = 20;
             j1.tinggi= 12;
+            
+            j1.cetakinfo();
     }
 }
