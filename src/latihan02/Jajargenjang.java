@@ -8,6 +8,11 @@ public class Jajargenjang {
         alas = 30;
         tinggi = 20;
     }
+
+    public Jajargenjang(double alas, double tinggi) {
+        this.alas = alas;
+        this.tinggi = tinggi;
+    }
         
         void cetakinfo(){
             System.out.println("~~~~~~~~~~~~~~~~~~~~~");

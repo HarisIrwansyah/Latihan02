@@ -14,5 +14,8 @@ public class JajargenjangAksi {
             
         Jajargenjang j2 = new Jajargenjang();
             j2.cetakinfo();
+            
+        Jajargenjang j3 = new Jajargenjang(15,10);
+            j3.cetakinfo();
     }
 }
