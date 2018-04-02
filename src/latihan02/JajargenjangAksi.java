@@ -8,5 +8,7 @@ public class JajargenjangAksi {
             j1.tinggi= 12;
             
             j1.cetakinfo();
+            System.out.println("Luas Jajargenjang : "+j1.hitungluas()+" Cm2");
+            System.out.println("");
     }
 }

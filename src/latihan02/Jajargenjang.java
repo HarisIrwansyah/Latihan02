@@ -11,5 +11,11 @@ public class Jajargenjang {
             System.out.println("");
             System.out.println("~~~~~~~~~~~~~~~~~~~~~");
         }
+        
+        double hitungluas(){
+            double luas;
+            luas = alas*tinggi;
+            return luas;
+        }
        
-}
+    }
