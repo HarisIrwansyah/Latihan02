@@ -3,6 +3,11 @@ package latihan02;
 public class Jajargenjang {
         double alas;
         double tinggi;
+
+    public Jajargenjang() {
+        alas = 30;
+        tinggi = 20;
+    }
         
         void cetakinfo(){
             System.out.println("~~~~~~~~~~~~~~~~~~~~~");

@@ -11,5 +11,8 @@ public class JajargenjangAksi {
             System.out.println("Luas Jajargenjang : "+j1.hitungluas()+" Cm2");
             j1.cetakluas();
             System.out.println("");
+            
+        Jajargenjang j2 = new Jajargenjang();
+            j2.cetakinfo();
     }
 }
